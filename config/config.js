@@ -3,7 +3,7 @@
  */
 exports.dbConf = {
     host: 'localhost',
-    database: 'tets',
+    database: 'test',
     user: 'root',
     password: '',
     protocol: 'mysql',

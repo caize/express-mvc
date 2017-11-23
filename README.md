@@ -8,7 +8,7 @@
 
 ## 使用
 ```
-$ git clone url project
+$ git clone https://github.com/junhaotong/express-mvc.git project
 $ cd project
 $ npm install
 ```
